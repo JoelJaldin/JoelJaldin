@@ -4,7 +4,7 @@
 
 I’m a high school biology teacher with a passion for science and technology but currently, i'm growing professionally as a software developer.
 
-Nowhedays, im working as Junior Back End Developer with Ruby on rails in Avenida+ company, building and maintaining marketplaces using Spree.
+Nowhedays, im working as Back End Developer with Ruby on rails in Avenida+ company, building and maintaining marketplaces.
 
 I did a bootcamp at Le Wagon with RoR and a React course at Platzi
 
